@@ -1,0 +1,19 @@
+{
+    "name": "image/colordetect",
+    "description": "Detect color of image",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "pooja",
+            "email": "pooja.optimumbrew@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "image\\colordetect\\": "src/"
+        }
+    },
+    "require": {}
+}
