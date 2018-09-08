@@ -12,7 +12,7 @@ composer require image/colordetect
 ```
 # OR
 
-•	Add in composer.json :(after adding update your composer[ composer update ]
+•	Add in composer.json :(after adding, you should update your composer[ composer update ]
 ```bash
 "require": { 
 	…
