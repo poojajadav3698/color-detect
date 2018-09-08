@@ -5,7 +5,7 @@
  composer create-project --prefer-dist laravel/laravel blog_demo
  ```
 ### Install
-Require this package with composer using:
+# Require this package with composer using:
 •	Add in composer.json must be have you minimum-stability is dev,("minimum-stability": "dev" in composer.json)
 ```bash
 composer require image/colordetect
@@ -19,6 +19,7 @@ OR
 	"image/colordetect": "dev-master"
 }
 ```
+
 ## After updating composer, add the service provider to the providers array in config/app.php
 ```
 image\colordetect\ColordetectServiceProvider::class,
