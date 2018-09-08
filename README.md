@@ -1,18 +1,18 @@
-## Install color detect Package
+# Install color detect Package
 
 ### Create a new laravel project
 ```
  composer create-project --prefer-dist laravel/laravel blog_demo
  ```
 ### Install
-# Require this package with composer using:
+#### Require this package with composer using:
 •	Add in composer.json must be have you minimum-stability is dev,("minimum-stability": "dev" in composer.json)
 ```bash
 composer require image/colordetect
 ```
-OR
+# OR
 
-•	Add in composer.json :
+•	Add in composer.json :(after adding update your composer[ composer update ]
 ```bash
 "require": { 
 	…
