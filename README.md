@@ -25,7 +25,7 @@ image\colordetect\ColordetectServiceProvider::class,
 ```
 Call in postman
 
-API BASE URL : http://localhost/<project_name/public/getImageMainColor
+API BASE URL : [http://localhost/<project_name>/public/getImageMainColor](http://localhost/<project_name>/public/getImageMainColor)
 
 Parameters : "file" : 1.jpg,
 
