@@ -20,7 +20,7 @@ composer require image/colordetect
 }
 ```
 
-## After updating composer, add the service provider to the providers array in config/app.php
+### After updating composer, add the service provider to the providers array in config/app.php
 ```
 image\colordetect\ColordetectServiceProvider::class,
 ```
