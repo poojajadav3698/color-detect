@@ -31,7 +31,7 @@ Parameters : "file" : 1.jpg,
 
  ### Demo
  That’s it – load URL in the postman!
- <img src="https://raw.githubusercontent.com/poojajadav3698/color-detect/master/2.JPG" />
+ <img src="https://raw.githubusercontent.com/poojajadav3698/color-detect/master/3.JPG" />
  
 ### Thank you
 
