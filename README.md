@@ -26,10 +26,12 @@ image\colordetect\ColordetectServiceProvider::class,
 Call in postman
 
 API BASE URL : http://localhost/<project_name/public/getImageMainColor
+
 Parameters : "file" : 1.jpg,
-That’s it – load URL in the postman!
+
  
  ### Demo
+ That’s it – load URL in the postman!
  <img src="https://raw.githubusercontent.com/poojajadav3698/color-detect/master/2.JPG" />
  
 ### Thank you
